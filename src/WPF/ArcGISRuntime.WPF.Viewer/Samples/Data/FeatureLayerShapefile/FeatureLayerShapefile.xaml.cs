@@ -62,7 +62,7 @@ namespace ArcGISRuntime.WPF.Samples.FeatureLayerShapefile
 
         private static string GetShapefilePath()
         {
-            return DataManager.GetDataFolder("d98b3e5293834c5f852f13c569930caa", "Public_Art.shp");
+            return DataManager.GetDataFolder("d98b3e5293834c5f852f13c569930caa", "B19_InvLevel.shp");
         }
     }
 }
